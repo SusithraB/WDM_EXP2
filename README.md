@@ -42,7 +42,7 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/ade2f596-f852-40cb-a2f2-a0d284fca7aa)
+![image](https://github.com/user-attachments/assets/a6849d77-8b6e-441d-aa02-4cb7afef1ee4)
 
 
 ### Procedure for Association Rules:
@@ -54,6 +54,8 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/2804d6f9-5b90-4ac0-8b92-62cbc59116f4)
+![image](https://github.com/user-attachments/assets/3e038dea-e3af-48d5-9342-ba782bb77f4f)
+
 
 ### RESULT: 
+Thus, associate rules for the banking dataset using Apriori Algorithm is generated.
